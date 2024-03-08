@@ -5,4 +5,4 @@
 * ### HTML, CSS e JS
 * ### Link do site - [Grand Theft Auto](https://leticiaok.github.io/projeto-gta/)
 
-
+![Home page](src/imagens/landing-page-gta.png)
